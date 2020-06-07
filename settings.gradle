@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='VideoCapture_save_share_viewByOtherApps'
